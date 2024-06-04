@@ -16,12 +16,18 @@ Let's connect, share insights, and embark on this exciting journey of tech and p
 
 <!--- 🔭 I’m currently working on-->
 - 🌱 I’m currently learning **Data Analytic Tools and AWS Certifications**
+
 - 👨🏻‍🎓 **TECHNICAL HEAD @ CESA, Indus University**
+
 - 🤝 I’m looking for help with **ML, Data Science & Power BI**
-- 💬 Ask me about **When coding gets tough, sticking with familiar solutions is tempting. But sometimes, the key to cracking a difficult problem is thinking outside the box and finding a unique solution that no one else has thought of.**
-- 📫 How to reach me **shubhangigoswami01@gmail.com** or <a href="https://www.linkedin.com/in/shubhangi23/">LinkedIn </a> 
+
+<!--- 💬 Ask me about **When coding gets tough, sticking with familiar solutions is tempting. But sometimes, the key to cracking a difficult problem is thinking outside the box and finding a unique solution that no one else has thought of.**-->
+
+- 📫 How to reach me **shubhangigoswami01@gmail.com** or <a href="https://www.linkedin.com/in/shubhangi23/">LinkedIn </a>
+
 - 👨‍💻 All of my projects are available at [https://github.com/shubhangi0001](https://github.com/shubhangi0001)
-- ⚡ Fun fact **I like Golden Retriever more than Human.**
+
+- ⚡ Fun fact:- **When coding gets tough, sticking with familiar solutions is tempting. But sometimes, the key to cracking a difficult problem is thinking outside the box and finding a unique solution that no one else has thought of.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi23/) 
