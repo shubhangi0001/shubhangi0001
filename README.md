@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhangi0001](https://github.com/shubhangi0001)
 
-- 💬 Ask me about **When coding gets tough, it's tempting to stick with familiar solutions. But sometimes, the key to cracking a difficult problem is thinking outside the box and finding a unique solution that no one else has thought of.**
+- 💬 Ask me about **When coding gets tough, sticking with familiar solutions is tempting. But sometimes, the key to cracking a difficult problem is thinking outside the box and finding a unique solution that no one else has thought of.**
 
 - 📫 How to reach me **shubhangigoswami01@gmail.com**
 
