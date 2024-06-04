@@ -16,6 +16,7 @@ Let's connect, share insights, and embark on this exciting journey of tech and p
 
 <!--- 🔭 I’m currently working on-->
 - 🌱 I’m currently learning **Data Analytic Tools and AWS Certifications**
+- 👨🏻‍🎓 **TECHNICAL HEAD @ CESA, Indus University**
 - 🤝 I’m looking for help with **ML, Data Science & Power BI**
 - 💬 Ask me about **When coding gets tough, sticking with familiar solutions is tempting. But sometimes, the key to cracking a difficult problem is thinking outside the box and finding a unique solution that no one else has thought of.**
 - 📫 How to reach me **shubhangigoswami01@gmail.com** or <a href="https://www.linkedin.com/in/shubhangi23/">LinkedIn </a> 
