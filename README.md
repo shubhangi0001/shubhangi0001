@@ -33,6 +33,9 @@ Let's connect, share insights, and embark on this exciting journey of tech and p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi23/) 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20979793/shubhangi)
 [![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4.svg?logo=google&logoColor=white)](https://g.dev/shubhangi23)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://shubhangigoswami.medium.com/) 
+[![Calendly](https://img.shields.io/badge/Calendly-%230077B5.svg?logo=calendly&logoColor=white)](https://calendly.com/shubhangigoswami) 
+
 
 # 💻 Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
