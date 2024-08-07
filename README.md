@@ -6,11 +6,9 @@
 
 # 💫 About me:
 
-4th-year Computer Science and Engineering student at Indus University with a deep passion for Data Science, AI/ML, and Development. A problem-solver at heart, I thrive on the challenges each line of code presents and am always eager to dive into new technologies.
+I am a final-year Computer Science and Engineering student at Indus University with a deep passion for Data Science, AI/ML, and Development. As a problem-solver at heart, I thrive on the challenges presented by each line of code and am always eager to explore new technologies.
 
-Beyond the screen, you'll find me savoring a cup of coffee or immersed in fiction and non-fiction books. I also enjoy expressing my creativity through art and canvases, exploring worlds of imagination. An adventurous spirit, I love to travel and am a big-time foodie. Striving for balance, I juggle code commits and creative pursuits, one step at a time.
-
-Guide with the Rajya Puraskar award from former Governor of Gujarat, Shri Om Prakash Kohli. 
+Beyond the screen, you'll find me savoring a cup of coffee or immersed in fiction and non-fiction books. I also enjoy expressing my creativity through art and canvases, exploring worlds of imagination.
 
 Let's connect, share insights, and embark on this exciting journey of tech and personal growth together!
 
