@@ -6,7 +6,7 @@
 
 # 💫 About me:
 
-3rd-year Computer Science and Engineering student at Indus University with a deep passion for Data Science, AI/ML, and Development. A problem-solver at heart, I thrive on the challenges each line of code presents and am always eager to dive into new technologies.
+4th-year Computer Science and Engineering student at Indus University with a deep passion for Data Science, AI/ML, and Development. A problem-solver at heart, I thrive on the challenges each line of code presents and am always eager to dive into new technologies.
 
 Beyond the screen, you'll find me savoring a cup of coffee or immersed in fiction and non-fiction books. I also enjoy expressing my creativity through art and canvases, exploring worlds of imagination. An adventurous spirit, I love to travel and am a big-time foodie. Striving for balance, I juggle code commits and creative pursuits, one step at a time.
 
