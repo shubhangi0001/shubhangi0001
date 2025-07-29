@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shubhangi Goswami</h1>
-# 💫 About Me:
+# Hello, I'm Shubhangi Goswami
+
+## 💫 About Me:
 🌱 I’m currently learning **Data Visualization tools (Tableau, Power BI), Advanced NLP, LLMs and Deep Learning**<br>👨‍💻 All of my projects are available at [https://github.com/shubhangi0001](https://github.com/shubhangi0001)<br>📝 I regularly write blogs on [https://shubhangigoswami.medium.com/](https://shubhangigoswami.medium.com/)<br>💬 Have a project idea in **Data Science, Data Analysis, or AI/ML? Let’s connect and bring it to life!**<br>📫 How to reach me **shubhangigoswami01@gmail.com**
 
 
